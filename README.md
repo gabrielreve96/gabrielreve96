@@ -1,33 +1,104 @@
-<h1 align="center">Hi 👋, I'm Gabriel dominguez</h1>
-<h3 align="center">Passionate about technology and the programming industry.</h3>
+# 👋 Hi, I'm Gabriel Domínguez
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielreve96&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielreve96" /> </p>
+### Technical Leader · Power Platform Specialist · Full-Stack Developer
 
-- 🔭 I’m currently working on **Personal projects**
+I design, build and scale business solutions using **Microsoft Power Platform**, **cloud services** and **modern full-stack technologies**.
 
-- 🌱 I’m currently learning **Studying Backend languages like django and Learning Docker**
+![Profile views](https://komarev.com/ghpvc/?username=gabrielreve96&label=Profile%20views&color=0e75b6&style=flat)
 
-- 👯 I’m looking to collaborate on **Forntend or Backend Projects**
+---
 
-- 🤝 I’m looking for help with **We are warning**
+## 🚀 About Me
 
-- 💬 Ask me about **About programming**
+- 🧠 Technical Leader mindset with strong architectural vision  
+- 🏗️ Power Platform specialist (Dataverse, Power Apps, Power Automate, CoE & Governance)  
+- ⚙️ Full-Stack Developer (Node.js, Express, NestJS, React, Next.js)  
+- ☁️ Cloud & DevOps oriented (Azure, Cloudflare, Docker)  
+- 🤖 AI integrations (RAG, Copilot Studio, LLMs for business use cases)  
+- 📊 Enterprise-grade solutions with security, scalability and maintainability focus  
 
-- 📫 How to reach me **gabrielreve96@gmail.com**
+---
 
-- ⚡ Fun fact **elert("Personaje Simpatico")**
+## 💼 What I Do
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+- 🔭 Building **enterprise platforms and SaaS solutions**
+- 🌱 Currently learning:
+  - Backend architectures (Node.js / Django)
+  - Docker & containerized environments
+  - AI-powered applications
+- 👯 Open to collaborate on **Power Platform, Backend or Full-Stack projects**
+- 🤝 Interested in **complex technical challenges & architecture design**
+- 💬 Ask me about **Power Platform, Dataverse security, backend architecture & integrations**
+- 📫 Reach me at **gabrielreve96@gmail.com**
+- ⚡ Fun fact:
+  ```js
+  alert("Personaje simpático, pero obsesivo con la arquitectura limpia 😄");
+🌐 Connect With Me
+📸 Instagram: https://www.instagram.com/gabrielreve96
 
-<a href="https://fb.com/gabriel dominguez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gabriel dominguez" height="30" width="40" /></a>
-<a href="https://instagram.com/gabrielreve96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabrielreve96" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/gabrielreve96@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gabrielreve96@gmail.com" height="30" width="40" /></a>
-</p>
+▶️ YouTube: https://www.youtube.com/@gabrielreve96
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+🧰 Tech Stack
+Power Platform & Microsoft
+Power Apps (Canvas & Model-Driven)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielreve96&show_icons=true&locale=en" alt="gabrielreve96" /></p>
+Power Automate (Cloud & Desktop)
 
+Dataverse (ERBAC, Security Roles, Business Units)
+
+CoE Starter Kit
+
+Copilot Studio
+
+SharePoint & Microsoft 365
+
+Backend & APIs
+Node.js · Express · NestJS
+
+Python · Django · FastAPI
+
+REST APIs · OAuth2 · Azure Entra ID
+
+PocketBase · Database design
+
+Frontend
+React · Next.js
+
+JavaScript · HTML · CSS
+
+Bootstrap
+
+Data, Cloud & DevOps
+SQL · SQLite · MongoDB
+
+Docker
+
+Cloudflare Workers
+
+Azure
+
+Git · GitHub
+
+📊 GitHub Stats
+
+
+
+---
+
+## 🧠 Por qué este README sí está bien
+
+- ✅ **Markdown puro**, compatible con cualquier repo
+- ✅ Rol **clarísimo** (no junior, no genérico)
+- ✅ Mezcla perfecta: **Power Platform + código + arquitectura**
+- ✅ Profesional, pero con personalidad
+
+---
+
+## 👉 Siguiente paso (PAUSA)
+
+¿Quieres que hagamos ahora:
+1. 🔥 Una versión **ultra-enfocada a recruiters**  
+2. 💼 Una versión **freelance / SaaS / clientes**  
+3. 🌍 Una versión **ES + EN** en el mismo README  
+4. 🧩 Añadir **badges técnicos reales** (Power Platform, Azure, Docker, etc.)
 
